@@ -2,18 +2,33 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Azul",
       "price": 5.89
     },
     {
       "id": 2,
-      "name": "Notebook Mac",
-      "price": 12000.89
+      "name": "Notebook Mac OS",
+      "price": "12000.00"
     },
     {
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "595.00",
+      "id": 5
+    },
+    {
+      "name": "Lápis azul",
+      "price": "1550.65",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 7
     }
   ]
 }
